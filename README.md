@@ -1,6 +1,6 @@
 ## Hello there 👋 I am Masi from The Coding Classroom
 
-:mailbox_with_mail: Find me at
+:mailbox_with_mail: Find me at  
 [![Github](https://img.shields.io/badge/-Github-a9a9a9?style=flat&logo=Github&logoColor=white)](https://github.com/The-Coding-Classroom)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/thecodingclass1)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thecodingclassroom/)
