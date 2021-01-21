@@ -11,6 +11,7 @@
 
 I am a husband, a father, and a maths/physics/chemistry teacher with a Master's degree in Science and Engineering. Right now programming is just a hobby and a learning experience for me, but I'm committed to acquiring enough knowledge to possibly turn it into a career, one way or the other, in not too distant future.
 
+Technology and science is something that in my opinion should be available for everyone. For that reason I support open software whenever I can and will try to do my part in contributing to projects as well. As a teacher my goal is always to help others excel on their own and reach their potential. I hope my code can someday somewhere help someone to do just that.
 
 :speech_balloon: Spoken languages:  
 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" alt="finnish" width="25" height="15"/>
@@ -22,12 +23,13 @@ I am a husband, a father, and a maths/physics/chemistry teacher with a Master's 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=The-Coding-Classroom.The-Coding-Classroom" alt="visitors">
